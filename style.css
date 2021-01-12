@@ -4,7 +4,7 @@ html{
   }
   
   body{
-    font-family:"arial", serif;
+    font-family:"Times new roman", serif;
     background-color:ivory;
     margin-left:20px;
   }
@@ -28,7 +28,7 @@ html{
   h3{
     font-weight:400;
     font-size:1.3rem;
-    color:#97ff1f;
+    color:#c01fff;
     padding-bottom:1.5rem;
   }
   
